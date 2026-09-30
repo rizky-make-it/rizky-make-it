@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Rizky%20Tala&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IT%20Developer%20%E2%80%A2%20Building%20Manufacturing%20OS&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Muhammad%20Rizky&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IT%20Developer%20%E2%80%A2%20Building%20Manufacturing%20OS&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-stack+developer+at+a+furniture+factory;Next.js+%2B+Supabase+%2B+Postgres;Turning+shop-floor+chaos+into+clean+data;Building+AI+assistants+for+operations" alt="Typing SVG" /></a>
 
