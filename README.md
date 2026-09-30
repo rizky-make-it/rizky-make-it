@@ -8,15 +8,6 @@
 
 <br/>
 
-## 👋 About me
-
-- 🏭 **Software Engineer at [Tala Living](https://github.com/it-tala)** — a furniture manufacturer. I own the architecture and delivery of the internal **Manufacturing OS**: BOM & costing engine, production tracking, and the operations tooling the factory floor relies on every day.
-- 🤖 Leading **John Lau**, an LLM-powered operations assistant: tool-calling over production data, deterministic SQL routing, and human-confirmed writes so the model never mutates state on its own.
-- 📐 I care about the foundations: schema design, migration discipline, auditability, and integrations that make manual re-typing disappear.
-- 🧭 Principles: boring technology, small reversible changes, and production safety over cleverness.
-
-<br/>
-
 ## 🛠️ Tech stack
 
 <div align="center">
