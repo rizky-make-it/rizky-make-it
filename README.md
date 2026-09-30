@@ -29,17 +29,6 @@
 
 <br/>
 
-## 🚀 What I'm building
-
-| Project | What it does | Stack |
-|---|---|---|
-| **Manufacturing OS** | Internal ERP-lite for a furniture factory: BOM & costing engine, rate snapshots, production ops | Next.js · Supabase · Postgres · Cloudflare Workers |
-| **John Lau** | Ops assistant that turns natural-language questions into safe SQL & tool calls, with confirm-before-write | TypeScript · LLM tool-calling · Postgres |
-| **BOM Sheet Sync** | Google Sheets ↔ Supabase bridge so operators can input BOMs where they're comfortable, with locked rate snapshots | Apps Script · REST · Postgres |
-| **WhatsApp Ops Bots** | Group listeners & digest bots that surface decisions and blockers to the right people | Node.js · Baileys · Hermes Agent |
-
-<br/>
-
 ## 📈 Stats
 
 <div align="center">
