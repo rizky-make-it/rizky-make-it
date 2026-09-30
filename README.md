@@ -8,6 +8,14 @@
 
 <br/>
 
+<div align="center">
+  <img src="assets/shanks.gif" height="150" alt="Shanks"/>&nbsp;&nbsp;&nbsp;
+  <img src="assets/goku.gif" height="150" alt="Goku"/>&nbsp;&nbsp;&nbsp;
+  <img src="assets/luffy.gif" height="150" alt="Luffy"/>
+</div>
+
+<br/>
+
 ## 🛠️ Tech stack
 
 <div align="center">
