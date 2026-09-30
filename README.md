@@ -9,20 +9,7 @@
 <br/>
 
 <div align="center">
-  <img src="assets/ichigo.gif" height="150" alt="ichigo"/>
-  <img src="assets/nezuko_run.gif" height="150" alt="nezuko_run"/>
-  <img src="assets/zoro_sanji.gif" height="150" alt="zoro_sanji"/>
-  <img src="assets/nezuko.gif" height="150" alt="nezuko"/>
-  <img src="assets/deku.gif" height="150" alt="deku"/>
-  <img src="assets/vegeta.gif" height="150" alt="vegeta"/>
-</div>
-<div align="center">
-  <img src="assets/luffy_walk.gif" height="150" alt="luffy_walk"/>
-  <img src="assets/goku.gif" height="150" alt="goku"/>
-  <img src="assets/shanks.gif" height="150" alt="shanks"/>
-  <img src="assets/gojo.gif" height="150" alt="gojo"/>
-  <img src="assets/luffy.gif" height="150" alt="luffy"/>
-  <img src="assets/vegeta_chibi.gif" height="150" alt="vegeta_chibi"/>
+  <img src="assets/zoro_sanji.gif" height="150" alt="Zoro & Sanji"/>
 </div>
 
 <br/>
