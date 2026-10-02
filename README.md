@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Muhammad%20Rizky&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Manufacturing%20Systems%20%E2%80%&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Muhammad%20Rizky&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Designing+systems+that+run+a+factory;Data+models%2C+migrations%2C+production+safety;LLM+agents+with+guardrails+for+operations;Shipping+quietly%2C+measured+by+what+stops+breaking" alt="Typing SVG" /></a>
 
